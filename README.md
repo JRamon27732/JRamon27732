@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy José Ramón
 
-<!--
-**JRamon27732/JRamon27732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Estudiante de Ingeniería en Sistemas Computacionales
+- 🏫 Instituto Tecnológico de Tijuana
+- 📍 Tijuana, México  
+- 🎓 Interesado en desarrollo de software, redes y bases de datos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que utilizo
+
+- 💻 C# / C++
+- 🗄️ SQL Server
+- 🌐 HTML / CSS
+- 🐧 Linux
+- 🔧 Git y GitHub
+---
+
+## 🧠 Actualmente aprendiendo
+
+- Redes de computadoras
+- Desarrollo web
+- Bases de datos
+
+---
+
+| Contacto | Información |
+|----------|-------------|
+| 📧 Email | l23211913@tectijuana.edu.mx |
+| 💼 GitHub | [github.com/JRamon27732](https://github.com/JRamon27732) |
